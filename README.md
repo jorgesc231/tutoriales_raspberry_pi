@@ -7,14 +7,15 @@ Registro de cosas que hice con la **Raspberry Pi 1 B+** por si se me olvida.
 
 Tutoriales disponibles por ahora:
 
-- [cross_compile_rpi1](https://github.com/jorgesc231/tutoriales_raspberry/tree/master/cross_compile_rpi1) : Como compilar para la Raspberry Pi desde Windows, usando como ejemplo compilar SQLite.
-- [sdl2_gles2_rpi1](https://github.com/jorgesc231/tutoriales_raspberry/tree/master/sdl2_gles2_rpi1) : Como compilar SDL2 para la Raspberry Pi y usarlo con OpenGL ES 2.
-- [arm_assembly_rpi1](https://github.com/jorgesc231/tutoriales_raspberry/tree/master/arm_assembly_rpi1) : Programar en ARM Assembly en la Raspberry Pi.
-- [gpio_rpi1](https://github.com/jorgesc231/tutoriales_raspberry/tree/master/gpio_rpi1) : Uso de los pines GPIO de la Raspberry Pi usando C.
+- [cross_compile_rpi1](https://github.com/jorgesc231/tutoriales_raspberry/tree/master/cross_compile_rpi1) : Como compilar para Raspberry Pi desde Windows, usando como ejemplo compilar SQLite.
+- [sdl2_gles2_rpi1](https://github.com/jorgesc231/tutoriales_raspberry/tree/master/sdl2_gles2_rpi1) : Como compilar SDL2 para Raspberry Pi y usarlo con OpenGL ES 2.
+- [arm_assembly_rpi1](https://github.com/jorgesc231/tutoriales_raspberry/tree/master/arm_assembly_rpi1) : Programar en ARM Assembly en Raspberry Pi.
+- [gpio_rpi1](https://github.com/jorgesc231/tutoriales_raspberry/tree/master/gpio_rpi1) : Uso de los pines GPIO de Raspberry Pi usando C.
+- [go_cross_rpi1](https://github.com/jorgesc231/tutoriales_raspberry/tree/master/go_cross_rpi1) : Compilar programas en Go para Raspberry Pi.
 
 Posibles tutoriales futuros:
 
-- Cross-compile de programas en Go.
+- Usar Eclipse para desarrollador de forma remota para la Raspberry Pi
 
 
 ## Links utiles
