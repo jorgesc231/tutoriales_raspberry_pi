@@ -15,7 +15,7 @@ Tutoriales disponibles por ahora:
 
 Posibles tutoriales futuros:
 
-- Usar Eclipse para desarrollador de forma remota para la Raspberry Pi
+- 
 
 
 ## Links utiles
